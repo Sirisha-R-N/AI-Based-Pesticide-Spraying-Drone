@@ -16,11 +16,11 @@ This project leverages Artificial Intelligence and Convolutional Neural Network 
 
 3.  https://www.kaggle.com/datasets/shravanatirtha/coconut-leaf-dataset-for-pest-identification
 
-## ONNX Model, Tensorflow lite model:
+### ONNX Model, Tensorflow lite model:
 
 https://drive.google.com/drive/folders/1B1XEHrnEp75FmyDfWRUhraYk_XAHeJOG?usp=sharing
 
-## Literature survey sources:
+### Literature survey sources:
 
 1. https://www.researchgate.net/publication/356666697_Review_on_Application_of_Drone_in_Spraying_Pesticides_and_Fertilizers
 
@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1B1XEHrnEp75FmyDfWRUhraYk_XAHeJOG?usp=sha
 
 4. https://library.scholarcy.com/try
    
-## References for future development:
+### References for future development:
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343827
 
