@@ -1,6 +1,14 @@
 # AI based Pesticide spraying drone using CNN
 
-<b> Datasets used for training:</b>
+This project leverages Artificial Intelligence and Convolutional Neural Network (CNN) to develop a smart pesticide-spraying drone. The drone is designed to detect diseases and pests in crops using image processing and then spray pesticides precisely, reducing chemical usage and improving crop health.
+
+## Features
+
+- **Disease and Pest Detection:** Utilizes CNN models to analyze leaf images and identify diseases or pest infestations.
+- **Automated Spraying:** Integrates with drone flight controllers for targeted pesticide application.
+- **Efficient Resource Usage:** Reduces unnecessary pesticide spraying by focusing only on affected areas.
+  
+## Datasets used for training:
 
 1.  https://www.kaggle.com/datasets/meetnagadia/images-of-mango-leaves
 
@@ -8,18 +16,11 @@
 
 3.  https://www.kaggle.com/datasets/shravanatirtha/coconut-leaf-dataset-for-pest-identification
 
-<b> ONNX Model, Tensorflow lite model: </b>
+## ONNX Model, Tensorflow lite model:
 
 https://drive.google.com/drive/folders/1B1XEHrnEp75FmyDfWRUhraYk_XAHeJOG?usp=sharing
 
-References used:
-
-1. compression of onnx: https://pypi.org/project/scs4onnx/
-   
-3. flight controllers: https://robocraze.com/blogs/post/best-flight-controller-for-drone
-
-
-Literature survey sources:
+## Literature survey sources:
 
 1. https://www.researchgate.net/publication/356666697_Review_on_Application_of_Drone_in_Spraying_Pesticides_and_Fertilizers
 
@@ -29,9 +30,7 @@ Literature survey sources:
 
 4. https://library.scholarcy.com/try
    
-
-
-References for future development:
+## References for future development:
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343827
 
